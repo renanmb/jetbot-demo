@@ -1,5 +1,12 @@
 # JetBot
 
+Slowly adapting it to work on Isaac Sim, containers and more ... <br/>
+
+One day will be part of a more comprehensive series of Lectures Labs built from the Nvidia DLI labs
+
+Author:
+> - Renan Monteiro Barbosa
+
 <!--[<img src="https://img.shields.io/discord/553852754058280961.svg">](https://discord.gg/Ady6NtF) -->
 
 > Looking for a quick way to get started with JetBot?  Many third party kits are [now available](https://jetbot.org/master/third_party_kits.html)!
